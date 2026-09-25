@@ -1,6 +1,9 @@
 # Library Management API
 
-A simple **Library Management System REST API** built with Node.js, Express.js, and Firebase Firestore.
+> **Student Name:** Pratik Swain  
+> **Student ID:** 150096725184  
+> **Batch / Group:** Sam Altman  
+> **Description:** Pratik Swain 150096725184 Sam Altman - Library Management System REST API built with Node.js, Express.js, and Firebase Firestore.
 
 This project allows students to borrow and return books, and librarians to manage books and users.
 

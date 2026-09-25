@@ -1,7 +1,7 @@
 {
   "name": "library-management-api",
   "version": "1.0.0",
-  "description": "Library Management System REST API using Node.js, Express, and Firebase Firestore",
+  "description": "Pratik Swain 150096725184 Sam Altman - Library Management System REST API using Node.js, Express, and Firebase Firestore",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -14,7 +14,7 @@
     "express",
     "firebase"
   ],
-  "author": "Pratik Swain",
+  "author": "Pratik Swain - 150096725184 (Sam Altman)",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
