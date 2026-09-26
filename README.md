@@ -1,9 +1,9 @@
 # Library Management API
 
-> **Student Name:** Pratik Swain  
+> **Student Name:** Ajit Singh  
 > **Student ID:** 150096725184  
 > **Batch / Group:** Sam Altman  
-> **Description:** Pratik Swain 150096725184 Sam Altman - Library Management System REST API built with Node.js, Express.js, and Firebase Firestore.
+> **Description:** Ajit Singh 150096725184 Sam Altman - Library Management System REST API built with Node.js, Express.js, and Firebase Firestore.
 
 This project allows students to borrow and return books, and librarians to manage books and users.
 
@@ -48,7 +48,7 @@ This project allows students to borrow and return books, and librarians to manag
 ## Folder Structure
 
 ```
-Pratik Swain assignment 6/
+Ajit Singh assignment 6/
 │
 ├── server.js                      # Entry point
 ├── package.json                   # Dependencies and scripts
@@ -102,7 +102,7 @@ Pratik Swain assignment 6/
 ### Step 1: Clone or download the project
 
 ```bash
-cd "Pratik Swain assignment 6"
+cd "Ajit Singh assignment 6"
 ```
 
 ### Step 2: Install dependencies
@@ -503,4 +503,4 @@ Visit `http://localhost:5000/api-docs` in your browser to test endpoints visuall
 
 ## Author
 
-**Pratik Swain**
+**Ajit Singh**

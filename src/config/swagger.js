@@ -9,7 +9,7 @@ const swaggerOptions = {
       version: "1.0.0",
       description: "A simple Library Management System REST API built with Node.js, Express, and Firebase Firestore",
       contact: {
-        name: "Pratik Swain",
+        name: "Ajit Singh",
       },
     },
     servers: [
